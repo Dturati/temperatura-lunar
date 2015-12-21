@@ -1,3 +1,8 @@
+/*
+
+	David Turati
+	davidturati@gmail.com
+*/
 #include "arquivo.h"
 
 //construtor

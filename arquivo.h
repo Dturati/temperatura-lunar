@@ -1,3 +1,7 @@
+/*
+	David Turati
+	davidturati@gmail.com
+*/
 //#include "Entrada.h"
 #include "includes.h"
 #include "Entrada.h"

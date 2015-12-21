@@ -1,3 +1,7 @@
+/*
+	David Turati	
+	davidturati@gmail.com
+*/
 #include "includes.h"
 
 class Entrada{
